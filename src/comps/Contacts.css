@@ -1,0 +1,44 @@
+.Contactcontainer{
+    width: 360px;
+    background-color: #272727;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+ }
+ 
+ .conthead{
+    color: white;
+    font-size: 16px;
+    text-align: left;
+    padding-bottom: 20px;
+ }
+ 
+ 
+ .columns{
+    justify-content: space-between;
+    align-items: center;
+ }
+ .links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 345px;
+    height: 45px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+ }
+ 
+ .links:hover{
+    transition: cubic-bezier(.07, 1.41, .82, 1.42) 0.5;
+    transform: scale(1.04);
+    color: black;
+ }

@@ -1,0 +1,33 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    width: 160px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.urlcontainer{
+    align-items: center;
+    justify-content: center;
+    width: 160px;
+    height: 35px;
+    justify-content: center;
+    background-color: #272727;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.urlcontainer:hover{
+    cursor: pointer;
+    background-color: #50D890;
+    color: black;
+}
+
+i{
+    padding-left: 7px;
+}

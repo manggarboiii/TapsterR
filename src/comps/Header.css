@@ -1,0 +1,17 @@
+.Headall {
+    justify-content: center;
+    width: 390px;
+    height: 450px;
+    align-items: center;
+    display: flex;
+}
+
+.picture {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -8px;
+}
