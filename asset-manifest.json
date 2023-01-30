@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TapsterR/static/css/main.c3a8d7d0.css",
+    "main.js": "/TapsterR/static/js/main.20ff9025.js",
+    "static/js/787.d82d5ff2.chunk.js": "/TapsterR/static/js/787.d82d5ff2.chunk.js",
+    "static/media/profpic.svg": "/TapsterR/static/media/profpic.79d78a26982ced372a3be9c69e185be0.svg",
+    "static/media/QrImport.svg": "/TapsterR/static/media/QrImport.5dd088a6e963e4b53179c277ecbe32f3.svg",
+    "index.html": "/TapsterR/index.html",
+    "static/media/qricon.svg": "/TapsterR/static/media/qricon.8364d06cfbe941e1d4b763d4fc864e06.svg",
+    "main.c3a8d7d0.css.map": "/TapsterR/static/css/main.c3a8d7d0.css.map",
+    "main.20ff9025.js.map": "/TapsterR/static/js/main.20ff9025.js.map",
+    "787.d82d5ff2.chunk.js.map": "/TapsterR/static/js/787.d82d5ff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a8d7d0.css",
+    "static/js/main.20ff9025.js"
+  ]
+}
